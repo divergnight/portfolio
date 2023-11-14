@@ -1,0 +1,15 @@
+div {
+	background-color: grey;
+	color: red;
+}
+
+#Alpha {
+	padding: 1rem;
+}
+
+.Beta {
+	margin: 10px;
+}
+
+ul.gamma + li {
+}
